@@ -2,7 +2,7 @@
 ### Description
 This project was built based on pix2pix-model and default size of input and output image is (1024, 1024).
 ### Process data for training
-- Put your dataser (real-landscape-images) for _**real_photos**_ dir and run _**process_data.py**_.
+- Put your dataset (real-landscape-images) for _**real_photos**_ dir and run _**process_data.py**_.
 ### Train
 - Run _**train.py**_ (default 40000 steps) after have _**train_1024**_ and _**val_1024**_ data.
 - Checkpoints will be saved in _**training_checkpoint_1024**_ dir.
