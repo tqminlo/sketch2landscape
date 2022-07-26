@@ -9,7 +9,7 @@ This project was built based on _**pix2pix**_ model and default size of input an
 ### Test
 - Fix inp_path (path of the sketch-input image) and out_path (path to save the landscape-output image) in _**gen_result.py**_ and then run this file, or you can run this block:
   ```sh 
-  from gen_result.py import gen_image 
+  from gen_result import gen_image 
   inp_path = YOUR_INP_PATH 
   out_path = YOUR_OUT_PATH 
   gen_image(inp_path, out_path)
