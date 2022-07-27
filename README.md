@@ -1,6 +1,6 @@
 ## Gen high-resolution landscape images from sketch images
 ### Description
-This project was built based on _**pix2pix**_ model and default size of input and output image is (1024, 1024).
+This project was built based on _**pix2pix**_ model and default size of input and output of model is (1024, 1024).
 ### Process data for training
 - Put your dataset (real-landscape-images) for _**real_photos**_ dir and run _**process_data.py**_.
 ### Train
