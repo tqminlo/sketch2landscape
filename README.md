@@ -18,8 +18,8 @@ This project was built based on _**pix2pix**_ model and default size of input an
 - Or test code:
   ```sh 
   from inference import gen_image 
-  inp_path = YOUR_INP_PATH 
-  out_path = YOUR_OUT_PATH 
+  inp_path = INPUT_IMG_PATH 
+  out_path = OUTPUT_IMG_PATH 
   gen_image(inp_path, out_path)
   ```
  ### Pretrained
