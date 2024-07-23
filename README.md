@@ -23,5 +23,5 @@ This project was built based on _**pix2pix**_ model and default size of input an
   gen_image(inp_path, out_path)
   ```
  ### Pretrained
- - You can download pretrained model (train with 40000 landscape images) for test in here:
+ - You can download pretrained model (train with 2000 landscape images) for test in here:
  _https://drive.google.com/file/d/1nJ17oppifeY5CDYZ21utLXO7P737yto8/view?usp=sharing_
